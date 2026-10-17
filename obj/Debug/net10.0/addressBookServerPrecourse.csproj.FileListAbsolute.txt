@@ -1,0 +1,9 @@
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.AssemblyInfoInputs.cache
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.AssemblyInfo.cs
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.csproj.CoreCompileInputs.cache
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.RazorAssemblyInfo.cache
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.RazorAssemblyInfo.cs
+C:\Users\fredr\salt\precourse\addressBookServerPrecourse\obj\Debug\net10.0\addressBookServerPrecourse.sourcelink.json
