@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("addressBookServerPrecourse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f5e6764fd372c12414fbf902a760121612184d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738de2b868238ed8dfa91f2a5a66a6718dd9a9b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("addressBookServerPrecourse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("addressBookServerPrecourse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
